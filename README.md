@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ollykeran
-- 👀 I’m interested in coding for personal projects
-- 🌱 I’m currently learning python and C for arduino and pi projects
 - 📫 How to reach me email @ ollykeran@gmail.com
 
 <!---
